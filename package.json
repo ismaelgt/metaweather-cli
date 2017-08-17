@@ -28,7 +28,8 @@
   "dependencies": {
     "chalk": "^2.1.0",
     "got": "^7.1.0",
-    "meow": "^3.7.0"
+    "meow": "^3.7.0",
+    "ora": "^1.3.0"
   },
   "devDependencies": {
     "ava": "^0.21.0",
