@@ -26,7 +26,9 @@
     "test": "eslint . && ava"
   },
   "dependencies": {
+    "ansi-escapes": "^3.0.0",
     "chalk": "^2.1.0",
+    "fecha": "^2.3.1",
     "got": "^7.1.0",
     "inquirer": "^3.3.0",
     "meow": "^3.7.0",
