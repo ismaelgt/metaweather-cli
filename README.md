@@ -10,6 +10,8 @@
 MetaWeather is an automated weather data aggregator that takes the weather predictions from
 various forecasters and calculates the most likely outcome.
 
+<img src="screenshot.gif" width="600">
+
 ## Installation
 
 ```
