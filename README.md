@@ -26,6 +26,13 @@ $ npm install -g metaweather-cli
 $ weather
 ```
 
+## Interactive Mode
+	
+```
+$ weather -i  
+```
+ interactive mode gives you the option to choose between Fahrenheit or Celsius, Mph or Km/h, and adds the ability to manually enter a city
+
 ## License
 
 This project is licensed under the terms of the
