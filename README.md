@@ -26,7 +26,10 @@ $ npm install -g metaweather-cli
 $ weather
 ```
 
+## Contributing
+
+Read the [contributing guide](CONTRIBUTING.md) if you are looking to contribute.
+
 ## License
 
-This project is licensed under the terms of the
-[MIT license](https://github.com/ismaelgt/metaweather-cli/blob/master/LICENSE).
+This project is licensed under the terms of the [MIT license](LICENSE).
