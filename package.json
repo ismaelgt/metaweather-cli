@@ -1,6 +1,6 @@
 {
   "name": "metaweather-cli",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "Command Line Interface for MetaWeather",
   "keywords": [
     "cli",
